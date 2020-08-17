@@ -9,4 +9,4 @@ In the future I expect to transmute and shape reality. This unlocks a new world 
 Have worked with technologies such as HTML, CSS, Javascript, Python, React, Django, Flutter, Go, Vue, SQL, Firebase, Git, and AWS. :octocat: I am the type of person who loves to acquire new skills for solving different kind of problems that affects us.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zejiran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img style="border-radius: 5%" src="https://i.ibb.co/3mfmPW4/profile.jpg" width="17.5%">   
+<img src="https://i.ibb.co/XYc7s5q/IMG-20181106-101833.jpg" width="17.5%">   
