@@ -6,7 +6,7 @@ In the future I expect to transmute and shape reality. This unlocks a new world 
 
 ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zejiran&count_private=true&show_icons=true&theme)
 
-Have worked with technologies such as HTML, CSS, Javascript, Python, React, Django, Flutter, Go, Vue, SQL, Firebase, Git, and AWS. :octocat: I am the type of person who loves to acquire new skills for solving different kind of problems that affects us.
+Have worked with technologies such as HTML, CSS, Javascript, Python, React, Django, Flutter, Go, Vue.js, Java, SQL, C/C++, Firebase, Git, and AWS. :octocat: I am the type of person who loves to acquire new skills for solving different kind of problems that affects us. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zejiran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://i.ibb.co/XYc7s5q/IMG-20181106-101833.jpg" width="170px">
