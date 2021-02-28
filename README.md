@@ -1,8 +1,8 @@
 ### Hello! I'm Juan Alegría 🎸
 
-A colombian :neckbeard: Software Development Engineer always wanting to learn new things.
+A colombian :neckbeard: Software Development Engineer eager to create new projects and solutions.
 
-In the future I expect to transmute and shape reality. This unlocks a new world full of possibilities, leading humanity :goat: towards a more perfect world.
+I transmute, innovate and shape reality to lead humanity towards a more perfect world full of possibilities.
 
 ![Juan Alegría's GitHub stats](https://github-readme-stats.vercel.app/api?username=zejiran&count_private=true&show_icons=true&include_all_commits=true) <img src="https://i.ibb.co/XYc7s5q/IMG-20181106-101833.jpg" width="194px" style="border-radius: 25px;">
 
