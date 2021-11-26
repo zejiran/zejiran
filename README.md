@@ -4,7 +4,7 @@ Colombian Software Development Engineer eager to create new projects and solutio
 
 I transmute, innovate and shape reality to lead humanity towards a more perfect world full of possibilities.
 
-![Juan Alegría's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zejiran&count_private=true&show_icons=true&theme=graywhite&include_all_commits=true&hide_title=true&hide_border=true)<img src="https://i.ibb.co/XYc7s5q/IMG-20181106-101833.jpg" width="150px" style="border-radius: 25px;">
+![Juan Alegría's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zejiran&count_private=true&show_icons=true&theme=swift&include_all_commits=true&hide_title=true&hide_border=true) <img src="https://i.ibb.co/XYc7s5q/IMG-20181106-101833.jpg" width="165px">
 
 Have worked with technologies such as Go, Vue.js, Rust, HTML, CSS, JavaScript, TypeScript, Python, React, Django, Flutter, Java, SQL, C/C++, Firebase, Git, Terraform, and AWS. :octocat: I am the type of person who loves to acquire skills for solving the different kind of problems that affect us. 
 
