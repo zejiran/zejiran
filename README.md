@@ -1,6 +1,6 @@
 ### Hello! I'm Juan Alegría :guitar:
 
-Colombian Software Development Engineer eager to create new projects and solutions.
+Software Development Engineer eager to create new projects and solutions.
 
 I transmute, innovate and shape reality to lead humanity towards a more perfect world full of possibilities.
 
