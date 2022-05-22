@@ -4,10 +4,18 @@ Software Development Engineer eager to create new projects and solutions.
 
 I transmute, innovate and shape reality to lead humanity towards a more perfect world full of possibilities.
 
-![Juan Alegría's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zejiran&count_private=true&show_icons=true&theme=swift&include_all_commits=true&hide_title=true&hide_border=true) <img src="https://user-images.githubusercontent.com/30379522/166980522-daafc89a-3eea-464b-b71c-2a14b718f5fe.gif" alt="Profile pictures" width="165">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zejiran&count_private=true&show_icons=true&include_all_commits=true&bg_color=212337&text_color=ff5370&title_color=86e1fc&icon_color=c099ff&border_color=c8d3f5&hide_title=true&hide_border=true">
+  <img alt="Juan Alegría's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zejiran&count_private=true&show_icons=true&theme=swift&include_all_commits=true&hide_title=true&hide_border=true">
+</picture> 
+<picture>
+  <img src="https://user-images.githubusercontent.com/30379522/166980522-daafc89a-3eea-464b-b71c-2a14b718f5fe.gif" alt="Profile pictures" width="165"></picture>
 
 <div>
-  <img src="https://user-images.githubusercontent.com/30379522/164787921-af7efdda-ba61-4bf2-9f85-ba6d67aba24d.gif" align="right" width="22.5%">
+  <picture>
+    <img src="https://user-images.githubusercontent.com/30379522/164787921-af7efdda-ba61-4bf2-9f85-ba6d67aba24d.gif" align="right" width="22.5%">
+  </picture>
+  
   <p> Have worked with technologies such as Go, Vue.js, Rust, HTML, CSS, JavaScript, TypeScript, Python, React, Django, Flutter, Java, SQL, C/C++, Firebase, Git, Terraform, and AWS. :octocat: </p>
 </div>
 
