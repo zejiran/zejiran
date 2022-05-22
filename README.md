@@ -15,7 +15,7 @@ I transmute, innovate and shape reality to lead humanity towards a more perfect 
 
 <div>
   <picture>
-    <source srcset="https://user-images.githubusercontent.com/30379522/164787921-af7efdda-ba61-4bf2-9f85-ba6d67aba24d.gif 0.225x">
+    <source srcset="https://user-images.githubusercontent.com/30379522/164787921-af7efdda-ba61-4bf2-9f85-ba6d67aba24d.gif">
     <img src="https://user-images.githubusercontent.com/30379522/164787921-af7efdda-ba61-4bf2-9f85-ba6d67aba24d.gif" align="right" width="22.5%">
   </picture>
   
