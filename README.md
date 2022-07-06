@@ -19,7 +19,7 @@ I transmute, innovate and shape reality to lead humanity towards a more perfect 
     <img src="https://user-images.githubusercontent.com/30379522/164787921-af7efdda-ba61-4bf2-9f85-ba6d67aba24d.gif" align="right" width="22.5%">
   </picture>
   
-  <p> Have worked with technologies such as Go, Vue.js, Rust, HTML, CSS, JavaScript, TypeScript, Python, React, Django, Flutter, Java, SQL, C/C++, Firebase, Git, Terraform, and AWS. :octocat: </p>
+  <p> Have worked with technologies such as Go, VueJS, Rust, HTML, CSS, JavaScript, TypeScript, Python, React, Django, Flutter, Java, SQL, C/C++, Firebase, Git, Terraform, and AWS. :octocat: </p>
 </div>
 
 I am the type of person who loves to acquire skills for solving the different kind of problems that affect us.
