@@ -5,8 +5,8 @@ Software Development Engineer eager to create new projects and solutions.
 I transmute, innovate and shape reality to lead humanity towards a more perfect world full of possibilities.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zejiran&count_private=true&show_icons=true&include_all_commits=true&bg_color=212337&text_color=ff5370&title_color=86e1fc&icon_color=c099ff&border_color=c8d3f5&hide_title=true&hide_border=true">
-  <img alt="Juan Alegría's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zejiran&count_private=true&show_icons=true&theme=swift&include_all_commits=true&hide_title=true&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zejiran&count_private=true&show_icons=true&include_all_commits=true&bg_color=212337&text_color=ff5370&title_color=86e1fc&icon_color=c099ff&border_color=c8d3f5&hide_title=true&hide_border=true&rank_icon=github">
+  <img alt="Juan Alegría's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zejiran&count_private=true&show_icons=true&theme=swift&include_all_commits=true&hide_title=true&hide_border=true&rank_icon=github">
 </picture> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/30379522/172539704-8f8af11b-eba6-4185-a861-fd7f30a305fc.gif 165w">
