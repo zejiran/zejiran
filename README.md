@@ -5,8 +5,8 @@ Software Development Engineer eager to create new projects and solutions.
 I transmute, innovate and shape reality to lead humanity towards a more perfect world full of possibilities.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
-  <img alt="Juan Alegría's GitHub Stats" src="./profile/stats-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zejiran/zejiran/generated-stats/profile/stats-dark.svg">
+  <img alt="Juan Alegría's GitHub Stats" src="https://raw.githubusercontent.com/zejiran/zejiran/generated-stats/profile/stats-light.svg">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/30379522/172539704-8f8af11b-eba6-4185-a861-fd7f30a305fc.gif 165w">
