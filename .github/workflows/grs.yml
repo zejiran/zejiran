@@ -9,10 +9,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Generate stats card (dark)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=zejiran&count_private=true&show_icons=true&include_all_commits=true&bg_color=212337&text_color=ff5370&title_color=86e1fc&icon_color=c099ff&border_color=c8d3f5&hide_title=true&hide_border=true&rank_icon=github
@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate stats card (light)
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=zejiran&count_private=true&show_icons=true&theme=swift&include_all_commits=true&hide_title=true&hide_border=true&rank_icon=github
