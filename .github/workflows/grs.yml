@@ -17,7 +17,7 @@ jobs:
           card: stats
           options: username=zejiran&count_private=true&show_icons=true&include_all_commits=true&bg_color=212337&text_color=ff5370&title_color=86e1fc&icon_color=c099ff&border_color=c8d3f5&hide_title=true&hide_border=true&rank_icon=github
           path: profile/stats-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate stats card (light)
         uses: stats-organization/github-readme-stats-action@v2
@@ -25,7 +25,7 @@ jobs:
           card: stats
           options: username=zejiran&count_private=true&show_icons=true&theme=swift&include_all_commits=true&hide_title=true&hide_border=true&rank_icon=github
           path: profile/stats-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Commit cards
         run: |
